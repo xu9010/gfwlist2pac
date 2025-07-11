@@ -16,10 +16,18 @@ source env/bin/activate
 # 备份到本地repo
 wget -O gfwlist/gfwlist.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
+
+# genpac \
+# 	--format pac \
+# 	--pac-proxy "SOCKS5 127.0.0.1:1081" \
+# 	--gfwlist-local gfwlist/gfwlist.txt \
+# 	--user-rule-from user-rule.txt \
+# 	-o gfwlist_1081.pac
+
 genpac \
 	--format pac \
 	--pac-proxy "SOCKS5 127.0.0.1:1081" \
-	# --gfwlist-local gfwlist/gfwlist.txt \ #本地文件仅备份，使用默认的在线gfwlist
+	--gfwlist-url "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
 	--user-rule-from user-rule.txt \
 	-o gfwlist_1081.pac
 # sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
@@ -28,7 +36,7 @@ genpac \
 genpac \
 	--format pac \
 	--pac-proxy "SOCKS5 127.0.0.1:7890" \
-	# --gfwlist-local gfwlist/gfwlist.txt \  #本地文件仅备份，使用默认的在线gfwlist
+	--gfwlist-url "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
 	--user-rule-from user-rule.txt \
 	-o gfwlist_7890.pac
 # sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
