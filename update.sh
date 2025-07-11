@@ -13,13 +13,13 @@ source env/bin/activate
 # (cd genpac; git checkout a390426; python setup.py install) # 3.0.1版
 # pip install genpac==3.0.1 # 备选在线安装
 
+# 备份到本地repo
 wget -O gfwlist/gfwlist.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 genpac \
 	--format pac \
 	--pac-proxy "SOCKS5 127.0.0.1:1081" \
-	--gfwlist-url - \
-	--gfwlist-local gfwlist/gfwlist.txt \
+	# --gfwlist-local gfwlist/gfwlist.txt \ #本地文件仅备份，使用默认的在线gfwlist
 	--user-rule-from user-rule.txt \
 	-o gfwlist_1081.pac
 # sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
@@ -28,14 +28,14 @@ genpac \
 genpac \
 	--format pac \
 	--pac-proxy "SOCKS5 127.0.0.1:7890" \
-	--gfwlist-url - \
-	--gfwlist-local gfwlist/gfwlist.txt \
+	# --gfwlist-local gfwlist/gfwlist.txt \  #本地文件仅备份，使用默认的在线gfwlist
 	--user-rule-from user-rule.txt \
 	-o gfwlist_7890.pac
 # sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
 
 deactivate
 
-git add .
+git add gfwlist/gfwlist.txt
+git add *.pac
 git commit -m "[$(LANG=C date)]auto update"
 git push -f origin master
