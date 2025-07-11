@@ -16,7 +16,7 @@ source env/bin/activate
 # 备份到本地repo
 wget -O gfwlist/gfwlist.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-
+# 使用本地gfwlist的示例（备选）
 # genpac \
 # 	--format pac \
 # 	--pac-proxy "SOCKS5 127.0.0.1:1081" \
