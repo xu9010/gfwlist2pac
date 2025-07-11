@@ -11,15 +11,11 @@ var rules = [
         [
             "arxiv.org",
             "ascii2d.net",
-            "cnbeta.com.tw",
             "files.pythonhosted.org",
-            "github.com",
             "gitlab.com",
             "oaiusercontent.com",
             "repo.anaconda.com",
-            "sourceforge.net",
-            "translate.google.com",
-            "translate.googleapis.com"
+            "sourceforge.net"
         ]
     ],
     [
