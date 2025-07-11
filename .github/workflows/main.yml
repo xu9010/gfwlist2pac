@@ -19,6 +19,9 @@ on:
       tags:
         description: 'Test scenario tags'
 
+permissions:
+  contents: write
+  
 jobs:
   build:
 
@@ -36,8 +39,8 @@ jobs:
         pip install virtualenv
     - name: Set User
       run: |
-        git config --global user.email xu9010@gmail.com
-        git config --global user.name xu9010
+        git config --global user.email github-actions@github.com
+        git config --global user.name github-actions
     - name: Run sh
       run: bash ./update.sh
     
