@@ -39,7 +39,7 @@ genpac \
 	--gfwlist-url "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
 	--user-rule-from user-rule.txt \
 	-o gfwlist_7890.pac
-sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
+sed -e '3d' -i gfwlist_7890.pac # 删除带无用日期的注释
 
 deactivate
 
