@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-07-14 09:55:03
+ * GFWList Last-Modified: 2025-07-25 14:01:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5797,6 +5797,7 @@ var rules = [
             "yam.org.tw",
             "yande.re",
             "yanghengjun.com",
+            "yangzhi.org",
             "yasni.co.uk",
             "yasukuni.or.jp",
             "yayabay.com",
