@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-07-25 14:01:51
+ * GFWList Last-Modified: 2025-07-27 05:22:39
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3175,6 +3175,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "ludepress.com",
             "luke54.com",
             "luke54.org",
             "lupm.org",
