@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-07-29 05:14:47
+ * GFWList Last-Modified: 2025-08-03 13:23:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5701,6 +5701,8 @@ var rules = [
             "www2.ohchr.org",
             "www2.rocketbbs.com",
             "wwwhost.biz",
+            "wxw.cat",
+            "wxw.moe",
             "wzyboy.im",
             "x-art.com",
             "x-berry.com",
