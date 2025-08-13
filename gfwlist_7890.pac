@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-08-12 03:15:07
+ * GFWList Last-Modified: 2025-08-13 10:33:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -651,6 +651,7 @@ var rules = [
             "bet365.com",
             "betaclouds.net",
             "betfair.com",
+            "betterhash.net",
             "betternet.co",
             "bettervpn.com",
             "bettween.com",
@@ -2459,6 +2460,7 @@ var rules = [
             "heqinglian.net",
             "heritage.org",
             "herokuapp.com",
+            "herominers.com",
             "hexieshe.com",
             "hexieshe.xyz",
             "hexxeh.net",
@@ -2828,6 +2830,7 @@ var rules = [
             "itaiwan.gov.tw",
             "italiatibet.org",
             "itasoftware.com",
+            "itch.io",
             "itemdb.com",
             "itemfix.com",
             "ithelp.ithome.com.tw",
