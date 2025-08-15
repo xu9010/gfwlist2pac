@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-08-13 10:33:38
+ * GFWList Last-Modified: 2025-08-15 06:59:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4701,6 +4701,7 @@ var rules = [
             "surrenderat20.net",
             "svsfx.com",
             "swagbucks.com",
+            "swapspace.co",
             "swissinfo.ch",
             "swissvpn.net",
             "switch1.jp",
