@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-08-18 13:50:12
+ * GFWList Last-Modified: 2025-08-20 15:24:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -105,7 +105,6 @@ var rules = [
             "static.soup.io",
             "static.typepad.com",
             "stdtime.gov.tw",
-            "storage.googleapis.com",
             "store.sprite.org",
             "sunmoonlake.gov.tw",
             "taitung-house.gov.tw",
@@ -5238,6 +5237,7 @@ var rules = [
             "udn.com",
             "udn.com.tw",
             "udnbkk.com",
+            "udomain.hk",
             "uforadio.com.tw",
             "ufreevpn.com",
             "ugo.com",
