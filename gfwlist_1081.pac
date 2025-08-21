@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-08-20 15:24:34
+ * GFWList Last-Modified: 2025-08-21 10:06:50
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2836,6 +2836,7 @@ var rules = [
             "itemdb.com",
             "itemfix.com",
             "ithelp.ithome.com.tw",
+            "itiger.com",
             "itsaol.com",
             "itshidden.com",
             "itsky.it",
