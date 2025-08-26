@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-08-23 08:36:20
+ * GFWList Last-Modified: 2025-08-26 13:32:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1762,6 +1762,7 @@ var rules = [
             "fdc89.jp",
             "feedburner.com",
             "feeder.co",
+            "feedly.com",
             "feeds.fileforum.com",
             "feedx.net",
             "feelssh.com",
@@ -3398,6 +3399,7 @@ var rules = [
             "mog.com",
             "mohu.club",
             "mohu.rocks",
+            "moj.gov.tw",
             "mojim.com",
             "mol.gov.tw",
             "molihua.org",
