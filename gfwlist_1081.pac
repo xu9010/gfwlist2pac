@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-09-05 14:33:31
+ * GFWList Last-Modified: 2025-09-06 01:15:50
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2796,6 +2796,7 @@ var rules = [
             "iphonetaiwan.org",
             "iphonix.fr",
             "ipicture.ru",
+            "ipify.org",
             "ipjetable.net",
             "ipobar.com",
             "ipoock.com",
