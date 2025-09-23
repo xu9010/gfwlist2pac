@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-09-22 14:02:58
+ * GFWList Last-Modified: 2025-09-23 02:23:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -444,6 +444,7 @@ var rules = [
             "api-secure.recaptcha.net",
             "api-verify.recaptcha.net",
             "api.ai",
+            "api.palworldgame.com",
             "api.pureapk.com",
             "api.recaptcha.net",
             "api.steampowered.com",
@@ -3750,6 +3751,7 @@ var rules = [
             "ocreampies.com",
             "ocry.com",
             "october-review.org",
+            "octocaptcha.com",
             "oculus.com",
             "oculuscdn.com",
             "odysee.com",
