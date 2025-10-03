@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-10-02 08:16:45
+ * GFWList Last-Modified: 2025-10-03 08:02:40
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -258,6 +258,7 @@ var rules = [
             "91vps.club",
             "92ccav.com",
             "991.com",
+            "996.icu",
             "99btgc01.com",
             "99cn.info",
             "9bis.com",
