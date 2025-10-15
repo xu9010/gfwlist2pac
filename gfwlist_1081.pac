@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-10-11 13:12:35
+ * GFWList Last-Modified: 2025-10-15 07:41:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -503,6 +503,7 @@ var rules = [
             "asiaharvest.org",
             "asianage.com",
             "asianews.it",
+            "asianfanfics.com",
             "asiansexdiary.com",
             "asiaone.com",
             "asiatgp.com",
@@ -5102,6 +5103,7 @@ var rules = [
             "trtc.com.tw",
             "truebuddha-md.org",
             "trulyergonomic.com",
+            "trustwallet.com",
             "truthsocial.com",
             "truveo.com",
             "tryheart.jp",
@@ -5931,6 +5933,7 @@ var rules = [
             "z-lib.gl",
             "z-lib.io",
             "z-lib.org",
+            "z-library.ec",
             "z-library.sk",
             "zacebook.com",
             "zalmos.com",
