@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-10-15 07:41:51
+ * GFWList Last-Modified: 2025-10-16 10:15:54
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -834,7 +834,6 @@ var rules = [
             "btcbank.bank",
             "btctrade.im",
             "btdig.com",
-            "btdigg.org",
             "btguard.com",
             "btku.me",
             "btku.org",
@@ -5561,6 +5560,7 @@ var rules = [
             "webrtc.org",
             "webrush.net",
             "webs-tv.net",
+            "websdr.org",
             "website.informer.com",
             "website.new",
             "websitepulse.com",
@@ -5808,6 +5808,7 @@ var rules = [
             "xn--noss43i.com",
             "xn--oiq.cc",
             "xn--p8j9a0d9c9a.xn--q9jyb4c",
+            "xn--u2u927b.com",
             "xnpool.com",
             "xnxx.com",
             "xpdo.net",
