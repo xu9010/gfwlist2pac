@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-11-01 03:13:17
+ * GFWList Last-Modified: 2025-11-06 15:27:07
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1815,6 +1815,7 @@ var rules = [
             "flecheinthepeche.fr",
             "fleshbot.com",
             "fleursdeslettres.com",
+            "flexclip.com",
             "flexpool.io",
             "flgjustice.org",
             "flickr.com",
