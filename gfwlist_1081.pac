@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-11-30 03:25:57
+ * GFWList Last-Modified: 2025-12-13 05:57:16
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -432,6 +432,7 @@ var rules = [
             "antichristendom.com",
             "antiwave.net",
             "antpool.com",
+            "anuneko.com",
             "anyporn.com",
             "anysex.com",
             "ao3.org",
@@ -2926,6 +2927,7 @@ var rules = [
             "jetos.com",
             "jex.com",
             "jgoodies.com",
+            "jhelab.org",
             "jiangweiping.com",
             "jiaoyou8.com",
             "jiehua.cz",
@@ -4030,6 +4032,7 @@ var rules = [
             "podbean.com",
             "podcast.co",
             "podictionary.com",
+            "podwise.ai",
             "poe.com",
             "points-media.com",
             "pokerstars.com",
@@ -4196,9 +4199,11 @@ var rules = [
             "radiko.jp",
             "radio-canada.ca",
             "radio-en-ligne.fr",
+            "radio.co",
             "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
+            "radiojar.com",
             "radioline.co",
             "radiovaticana.org",
             "radiovncr.com",
