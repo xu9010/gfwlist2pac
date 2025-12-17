@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2025-12-13 05:57:16
+ * GFWList Last-Modified: 2025-12-17 08:56:03
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -693,6 +693,7 @@ var rules = [
             "bit-z.com",
             "bit.do",
             "bit.ly",
+            "bitbaby.com",
             "bitbay.net",
             "bitchute.com",
             "bitcointalk.org",
@@ -2719,6 +2720,7 @@ var rules = [
             "icu-project.org",
             "id.hao123.com",
             "id.heroku.com",
+            "idcflare.com",
             "idemocracy.asia",
             "identi.ca",
             "idiomconnection.com",
