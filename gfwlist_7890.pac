@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-01-29 07:54:31
+ * GFWList Last-Modified: 2026-01-30 12:58:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4539,6 +4539,7 @@ var rules = [
             "silkbook.com",
             "silvergatebank.com",
             "simbolostwitter.com",
+            "simianx.ai",
             "simplecd.me",
             "simplecd.org",
             "simpleproductivityblog.com",
@@ -5943,6 +5944,7 @@ var rules = [
             "yesasia.com.hk",
             "yespornplease.com",
             "yeyeclub.com",
+            "yfsp.tv",
             "ygto.com",
             "yhcw.net",
             "yibada.com",
