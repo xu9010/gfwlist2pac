@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-02-01 02:37:13
+ * GFWList Last-Modified: 2026-02-04 09:09:47
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3913,6 +3913,7 @@ var rules = [
             "padmanet.com",
             "page.link",
             "page2rss.com",
+            "pages.dev",
             "paimon.moe",
             "palacemoon.com",
             "paljorpublications.com",
@@ -4452,6 +4453,7 @@ var rules = [
             "seesmic.com",
             "seevpn.com",
             "seezone.net",
+            "sef.org.tw",
             "sehuatang.net",
             "sehuatang.org",
             "sejie.com",
@@ -5797,6 +5799,7 @@ var rules = [
             "www.eastturkistan.net",
             "www.gmiddle.com",
             "www.gmiddle.net",
+            "www.hoyolab.com",
             "www.hustlercash.com",
             "www.idlcoyote.com",
             "www.imdb.com",
