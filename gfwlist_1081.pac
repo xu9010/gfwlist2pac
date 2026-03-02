@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-02-24 13:37:10
+ * GFWList Last-Modified: 2026-03-02 11:25:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -750,6 +750,7 @@ var rules = [
             "ck101.com",
             "classicalguitarblog.net",
             "claude.ai",
+            "claude.com",
             "cldr.unicode.org",
             "clearsurance.com",
             "clementine-player.org",
@@ -2250,6 +2251,7 @@ var rules = [
             "mangafox.me",
             "mangmang.run",
             "manta.com",
+            "manus.im",
             "manyvoices.news",
             "marc.info",
             "martau.com",
@@ -3966,7 +3968,6 @@ var rules = [
             "www.hoyolab.com",
             "www.hustlercash.com",
             "www.idlcoyote.com",
-            "www.imdb.com",
             "www.kindleren.com",
             "www.lorenzetti.com.br",
             "www.m-sport.co.uk",
