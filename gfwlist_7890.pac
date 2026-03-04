@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-03-03 14:54:07
+ * GFWList Last-Modified: 2026-03-04 08:04:06
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1047,6 +1047,7 @@ var rules = [
             "ebtcbank.com",
             "ecfa.org.tw",
             "ecimg.tw",
+            "economist.com",
             "edgecastcdn.net",
             "edubridge.com",
             "edx-cdn.org",
@@ -4129,7 +4130,6 @@ var rules = [
             "z-library.sk",
             "zalmos.com",
             "zamimg.com",
-            "zaobao.com.sg",
             "zaochenbao.com",
             "zattoo.com",
             "zb.com",
