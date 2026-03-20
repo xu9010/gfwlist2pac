@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-03-19 05:49:29
+ * GFWList Last-Modified: 2026-03-20 09:23:10
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -738,6 +738,7 @@ var rules = [
             "chromestatus.com",
             "chromium.org",
             "ci-en.jp",
+            "cia.gov",
             "cici.com",
             "ciciai.com",
             "cirosantilli.com",
