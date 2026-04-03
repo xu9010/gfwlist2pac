@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-03-27 14:17:40
+ * GFWList Last-Modified: 2026-04-03 14:25:42
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2650,6 +2650,7 @@ var rules = [
             "orientaldaily.com.my",
             "orn.jp",
             "osfoora.com",
+            "osmand.net",
             "otcbtc.com",
             "otto.de",
             "ourdearamy.com",
