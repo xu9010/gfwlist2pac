@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-04-05 10:54:41
+ * GFWList Last-Modified: 2026-04-07 13:58:23
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -33,6 +33,7 @@ var rules = [
             "crl.pki.goog",
             "csi.gstatic.com",
             "dl.google.com",
+            "firebase-settings.crashlytics.com",
             "fonts.googleapis.com",
             "fonts.gstatic.com",
             "g0.gstatic.com",
@@ -838,6 +839,7 @@ var rules = [
             "cpu-monkey.com",
             "cq99.us",
             "crackle.com",
+            "crashlytics.com",
             "crazypool.org",
             "crazyshit.com",
             "crbug.com",
