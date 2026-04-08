@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-04-07 13:58:23
+ * GFWList Last-Modified: 2026-04-08 04:08:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2303,7 +2303,6 @@ var rules = [
             "mediawiki.org",
             "medium.com",
             "meee.com.tw",
-            "meetup.com",
             "mega.co.nz",
             "mega.io",
             "mega.nz",
@@ -2371,6 +2370,7 @@ var rules = [
             "mirrormedia.mg",
             "missav.com",
             "missav.ws",
+            "mistral.ai",
             "mitbbs.com",
             "miuipolska.pl",
             "mixero.com",
@@ -2877,7 +2877,6 @@ var rules = [
             "putty.org",
             "pximg.net",
             "python.com.tw",
-            "pytorch.org",
             "qbittorrent.org",
             "qgirl.com.tw",
             "qi-gong.me",
