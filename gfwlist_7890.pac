@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-04-11 13:49:59
+ * GFWList Last-Modified: 2026-04-14 10:07:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1003,7 +1003,6 @@ var rules = [
             "douchi.space",
             "dougscripts.com",
             "doujincafe.com",
-            "download.aircrack-ng.org",
             "download.dappcdn.com",
             "dpool.top",
             "dpp.org.tw",
@@ -1785,8 +1784,6 @@ var rules = [
             "hk.jiepang.com",
             "hk01.com",
             "hka8964.wordpress.com",
-            "hkacg.com",
-            "hkacg.net",
             "hkanews.wordpress.com",
             "hkbookcity.com",
             "hkchronicles.com",
@@ -2431,7 +2428,6 @@ var rules = [
             "muzi.net",
             "muzu.tv",
             "mvg.jp",
-            "mx981.com",
             "my-private-network.co.uk",
             "my.pcloud.com",
             "myaudiocast.com",
@@ -2637,6 +2633,7 @@ var rules = [
             "ooni.org",
             "open.firstory.me",
             "openai.com",
+            "openart.ai",
             "opencritic.com",
             "opendemocracy.net",
             "openid.net",
@@ -3006,15 +3003,7 @@ var rules = [
             "rxhj.net",
             "s-cute.com",
             "s.yimg.com",
-            "s3-ap-*.amazonaws.com",
             "s3-ap-northeast-1.amazonaws.com",
-            "s3-ap-northeast-2.amazonaws.com",
-            "s3-ap-southeast-1.amazonaws.com",
-            "s3-ap-southeast-2.amazonaws.com",
-            "s3-eu-central-1.amazonaws.com",
-            "s3.ap-northeast-2.amazonaws.com",
-            "s3.eu-central-1.amazonaws.com",
-            "s3.us-east-1.amazonaws.com",
             "sacks.com",
             "sacom.hk",
             "sadistic-v.com",
@@ -3819,7 +3808,6 @@ var rules = [
             "vrporn.com",
             "vrsmash.com",
             "vtunnel.com",
-            "vuku.cc",
             "vultryhw.com",
             "w-pool.com",
             "w3s.link",
@@ -4034,7 +4022,6 @@ var rules = [
             "xing.com",
             "xinjiangpolicefiles.org",
             "xinmiao.com.hk",
-            "xjp.cc",
             "xjtravelguide.com",
             "xm.com",
             "xml-training-guide.com",
