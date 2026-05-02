@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-04-28 14:37:01
+ * GFWList Last-Modified: 2026-05-02 11:49:50
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3158,6 +3158,7 @@ var rules = [
             "sockslist.net",
             "socrec.org",
             "softether-download.com",
+            "softether.co.jp",
             "softether.org",
             "softfamous.com",
             "softwarebychuck.com",
