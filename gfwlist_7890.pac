@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-05-02 11:49:50
+ * GFWList Last-Modified: 2026-05-03 14:24:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3034,9 +3034,6 @@ var rules = [
             "saveuighur.org",
             "sbme.me",
             "sbti.unun.dev",
-            "scache.vzw.com",
-            "scache1.vzw.com",
-            "scache2.vzw.com",
             "schema.org",
             "scmp.com",
             "scramble.io",
@@ -3217,7 +3214,6 @@ var rules = [
             "sproutcore.com",
             "squirrelvpn.com",
             "ss-link.com",
-            "ss7.vzw.com",
             "ssglobal.co",
             "ssl.webpack.de",
             "sspanel.net",
