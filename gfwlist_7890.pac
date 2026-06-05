@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-05-29 13:43:25
+ * GFWList Last-Modified: 2026-06-05 04:45:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2710,7 +2710,6 @@ var rules = [
             "pacom.mil",
             "pacopacomama.com",
             "page.link",
-            "pages.dev",
             "paimon.moe",
             "pancakeswap.finance",
             "pandafan.pub",
@@ -3323,6 +3322,7 @@ var rules = [
             "surfeasy.com.au",
             "surfshark.com",
             "surrenderat20.net",
+            "suyingtv.com",
             "swagbucks.com",
             "swapspace.co",
             "swissinfo.ch",
@@ -4005,6 +4005,7 @@ var rules = [
             "wowporn.com",
             "woyaolian.org",
             "wp.com",
+            "wplace.live",
             "wpoforum.com",
             "writesonic.com",
             "wsj.com",
