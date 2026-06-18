@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-06-17 14:04:05
+ * GFWList Last-Modified: 2026-06-18 15:35:10
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -144,6 +144,7 @@ var rules = [
             "about.me",
             "abplive.com",
             "acast.com",
+            "accountboy.com",
             "accountkit.com",
             "acevpn.com",
             "acg.mn",
@@ -2432,6 +2433,7 @@ var rules = [
             "monocloud.me",
             "monster.com",
             "moodyz.com",
+            "moomoo.com",
             "moon.fm",
             "moonbbs.com",
             "moonbingo.com",
@@ -4095,6 +4097,7 @@ var rules = [
             "xn--oiq.cc",
             "xn--p8j9a0d9c9a.xn--q9jyb4c",
             "xn--u2u927b.com",
+            "xn--vuqv2cf7wzyig79c.com",
             "xnpool.com",
             "xnxx.com",
             "xpud.org",
