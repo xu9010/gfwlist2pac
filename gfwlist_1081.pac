@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-07-18 01:04:10
+ * GFWList Last-Modified: 2026-07-20 11:42:32
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -778,6 +778,7 @@ var rules = [
             "civitai.com",
             "cixiaoya.club",
             "ck101.com",
+            "clashyun.com",
             "classicalguitarblog.net",
             "claude.ai",
             "claude.com",
@@ -3426,6 +3427,7 @@ var rules = [
             "syncback.com",
             "synergyse.com",
             "syosetu.com",
+            "sysub.com",
             "t-g.com",
             "t.co",
             "t.me",
