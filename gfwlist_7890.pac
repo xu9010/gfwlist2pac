@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-07-20 11:42:32
+ * GFWList Last-Modified: 2026-07-21 15:10:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4305,6 +4305,7 @@ var rules = [
             "zello.com",
             "zenmate.com",
             "zenmate.com.ru",
+            "zenmux.ai",
             "zerohedge.com",
             "zeronet.io",
             "zh-hans.cfsh99.com",
