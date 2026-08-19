@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-08-18 11:57:04
+ * GFWList Last-Modified: 2026-08-19 02:15:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2719,6 +2719,7 @@ var rules = [
             "okpool.me",
             "okx.com",
             "old.honeynet.org",
+            "oldmapsonline.org",
             "olehdtv.com",
             "olelive.com",
             "olevod.com",
