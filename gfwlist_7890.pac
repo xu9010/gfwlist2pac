@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-08-19 02:15:34
+ * GFWList Last-Modified: 2026-08-21 02:55:00
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -557,6 +557,7 @@ var rules = [
             "breakgfw.com",
             "breakingtweets.com",
             "breakwall.net",
+            "briarproject.org",
             "brill.com",
             "brizzly.com",
             "broadpressinc.com",
@@ -699,6 +700,7 @@ var rules = [
             "chat.com",
             "chat.lmsys.org",
             "chatgpt.com",
+            "chatgpt.site",
             "chatpdf.com",
             "chaturbate.com",
             "checkgfw.com",
