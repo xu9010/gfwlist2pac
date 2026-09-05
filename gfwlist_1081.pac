@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-09-04 10:44:38
+ * GFWList Last-Modified: 2026-09-05 05:29:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -61,6 +61,8 @@ var rules = [
             "1000giri.net",
             "10beasts.net",
             "10musume.com",
+            "123av.com",
+            "123av.me",
             "12bet.com",
             "12vpn.com",
             "12vpn.net",
@@ -1834,6 +1836,7 @@ var rules = [
             "helpeachpeople.com",
             "helpster.de",
             "hembed.com",
+            "hentai.tv",
             "heqinglian.net",
             "heritage.org",
             "herokuapp.com",
@@ -3116,6 +3119,7 @@ var rules = [
             "rmbl.ws",
             "roblox.com",
             "robustnessiskey.com",
+            "roc-taiwan.org",
             "rocket-inc.net",
             "rocket.chat",
             "rocksdb.org",
@@ -3125,6 +3129,7 @@ var rules = [
             "rolsociety.org",
             "ronjoneswriter.com",
             "rou.video",
+            "roushuwo.com",
             "rsdlmonitor.com",
             "rsf-chinese.org",
             "rsf.org",
@@ -3427,6 +3432,7 @@ var rules = [
             "superpages.com",
             "supervpn.net",
             "superzooi.com",
+            "supjav.com",
             "support.futunn.com",
             "supremecourt.gov",
             "suprememastertv.com",
@@ -3457,10 +3463,12 @@ var rules = [
             "taaze.tw",
             "taedp.org.tw",
             "tagwalk.com",
+            "taiav.com",
             "tails.net",
             "taipeisociety.org",
             "taipeitimes.com",
             "taisounds.com",
+            "taiwanembassy.org",
             "taiwanhot.net",
             "taiwanjustice.net",
             "taiwanncf.org.tw",
@@ -4143,6 +4151,7 @@ var rules = [
             "writesonic.com",
             "wsj.com",
             "wsj.net",
+            "wtfpass.com",
             "wufafangwen.com",
             "wufi.org.tw",
             "wujieliulan.com",
