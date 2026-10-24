@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-10-23 10:29:54
+ * GFWList Last-Modified: 2026-10-24 15:33:57
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -62,6 +62,7 @@ var rules = [
             "10musume.com",
             "123av.com",
             "123av.me",
+            "123av.org",
             "12bet.com",
             "12vpn.com",
             "12vpn.net",
@@ -2213,6 +2214,7 @@ var rules = [
             "kichiku-doujinko.com",
             "kik.com",
             "killwall.com",
+            "kimootoko.net",
             "kindle4rss.com",
             "kindleren.com",
             "kingdomsalvation.org",
@@ -2495,6 +2497,7 @@ var rules = [
             "minhhue.net",
             "miningpoolhub.com",
             "ministrybooks.org",
+            "minkch.com",
             "minzhuzhongguo.org",
             "miraheze.org",
             "mirdc.org.tw",
@@ -2556,6 +2559,7 @@ var rules = [
             "mosavi.io",
             "motherless.com",
             "movements.org",
+            "movie.eroterest.net",
             "moviefap.com",
             "mpettis.com",
             "mpfinance.com",
@@ -2689,6 +2693,9 @@ var rules = [
             "niu.moe",
             "niusnews.com",
             "njactb.org",
+            "njav.com",
+            "njav.tv",
+            "njavtv.com",
             "nlfreevpn.com",
             "nmsl.website",
             "nnews.eu",
@@ -2942,6 +2949,7 @@ var rules = [
             "plurk.com",
             "plus.codes",
             "pmatehunter.com",
+            "po-kaki-to.com",
             "po2b.com",
             "podbean.com",
             "podcast.co",
@@ -4412,6 +4420,7 @@ var rules = [
             "zophar.net",
             "zorrovpn.com",
             "zozotown.com",
+            "zozovideo.com",
             "zpn.im",
             "zspeeder.me",
             "zuo.la",
