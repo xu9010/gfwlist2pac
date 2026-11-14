@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-11-06 02:29:19
+ * GFWList Last-Modified: 2026-11-13 10:35:53
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -102,6 +102,7 @@ var rules = [
             "51.ca",
             "51jav.org",
             "51luoben.com",
+            "51papaya.com",
             "5278.cc",
             "611study.com",
             "611study.icu",
